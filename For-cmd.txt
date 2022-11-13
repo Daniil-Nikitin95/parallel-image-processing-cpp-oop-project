@@ -1,0 +1,3 @@
+mpiexec -n кол-во процессов ConsoleApplication1
+Пример:
+mpiexec -n 16 ConsoleApplication1

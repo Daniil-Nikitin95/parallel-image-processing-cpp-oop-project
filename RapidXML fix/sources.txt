@@ -1,0 +1,7 @@
+http://rapidxml.sourceforge.net/manual.html
+https://stackoverflow.com/questions/53593933/write-to-xml-with-rapidxml
+https://stackoverflow.com/questions/22528910/rapidxml-saving-into-a-file
+
+!!! Решение ошибки:
+https://stackoverflow.com/questions/14113923/rapidxml-print-header-has-undefined-methods
+!!!
